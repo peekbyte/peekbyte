@@ -1,13 +1,13 @@
 ## Introduction
 
-Hey there! I'm Hassan, a passionate full-stack developer with a keen interest in cloud architecture and open-source projects. I love building innovative solutions and exploring new technologies.
+I'm a passionate full-stack developer with a keen interest in cloud architecture and open-source projects. I love building innovative solutions and exploring new technologies.
 
 ## Skills
 
-- Languages: JavaScript, Python
-- Front-end: HTML, CSS, React
+- Languages: JavaScript, Nodejs, Python
+- Front-end: HTML, CSS, React, GraphQL
 - Back-end: Node.js, Express.js, Django
-- Databases: MongoDB, MySQL, PostgreSQL
+- Databases: MongoDB, MySQL, PostgreSQL, Redis
 - DevOps: Docker, Kubernetes
 - Cloud: AWS, Azure
 <!---
@@ -38,6 +38,6 @@ I love sharing my knowledge through blog posts and tutorials. Check out some of 
 
 Feel free to reach out to me through any of the following channels:
 
-- Email: [hfalahi@gmail.com](mailto:hfalahi@gmailcom)
-- Instagram: [@artin](https://www.instagram.com/artinfalahii/)
-- LinkedIn: [@falahi](https://www.linkedin.com/in/falahii/)
+- [Email](mailto:hfalahi@gmailcom)
+- [Instagram](https://www.instagram.com/artinfalahii/)
+- [LinkedIn](https://www.linkedin.com/in/falahii/)
