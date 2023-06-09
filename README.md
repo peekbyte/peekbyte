@@ -10,7 +10,7 @@ Hey there! I'm Hassan, a passionate full-stack developer with a keen interest in
 - Databases: MongoDB, MySQL, PostgreSQL
 - DevOps: Docker, Kubernetes
 - Cloud: AWS, Azure
-
+<!---
 ## Projects
 
 ### Project 1: [Project Name](link-to-repository)
@@ -33,11 +33,11 @@ I love sharing my knowledge through blog posts and tutorials. Check out some of 
 
 - [Article 1](link-to-article): A concise summary of the article and its key takeaways.
 - [Article 2](link-to-article): Explore another insightful piece that you've written.
-
+-->
 ## Contact Information
 
 Feel free to reach out to me through any of the following channels:
 
-- Email: [hfalahi@example.com](mailto:hfalahi@gmailcom)
-- Instagram: [@artinfalahii](https://www.instagram.com/artinfalahii/)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+- Email: [hfalahi@gmail.com](mailto:hfalahi@gmailcom)
+- Instagram: [@artin](https://www.instagram.com/artinfalahii/)
+- LinkedIn: [@falahi](https://www.linkedin.com/in/falahii/)
