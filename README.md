@@ -4,12 +4,11 @@ I'm a passionate full-stack developer with a keen interest in cloud architecture
 
 ## Skills
 
-- Languages: JavaScript, Nodejs, Python
-- Front-end: HTML, CSS, React, GraphQL
-- Back-end: Node.js, Express.js, Django
-- Databases: MongoDB, MySQL, PostgreSQL, Redis
-- DevOps: Docker, Kubernetes
-- Cloud: AWS, Azure
+- DevOps: Linux, Docker, Kubernetes, nginx, git, Gitlab CI/CD, Terraform
+- Backend: NodeJs, Python, Sequelize, socket.io, SQLAlchemy, Swagger, C#
+- Frontend: Javascript, Typescript ES6, CSS, React, Redux, Angular, Webpack, GraphQL Tests (Unit and e2e): Jest, enzyme, Cucumber, Cypress
+- Database: PostgreSQL, MySql, Microsoft SQL Server, MongoDB, Redis, Splunk
+- AWS services : S3, EC2, RDS, IAM, Lambda, ECS, CodeBuild
 <!---
 ## Projects
 
