@@ -38,5 +38,4 @@ I love sharing my knowledge through blog posts and tutorials. Check out some of 
 Feel free to reach out to me through any of the following channels:
 
 - [Email](mailto:hfalahi@gmailcom)
-- [Instagram](https://www.instagram.com/artinfalahii/)
 - [LinkedIn](https://www.linkedin.com/in/falahii/)
